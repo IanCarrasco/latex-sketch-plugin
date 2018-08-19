@@ -1,7 +1,7 @@
 {
   "name": "latex-sketch-plugin",
   "description": "a plugin",
-  "version": "5.2.0",
+  "version": "5.2.1",
   "engines": {
     "sketch": ">=3.0"
   },
