@@ -1,5 +1,6 @@
 {
   "name": "latex-sketch-plugin",
+  "description": "a plugin",
   "version": "5.1.0",
   "engines": {
     "sketch": ">=3.0"
